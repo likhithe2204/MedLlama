@@ -1,0 +1,6 @@
+# Libraries required
+ctransformers==0.2.5 # ctransformers library -> To use langchain
+sentence-transformers==2.2.2 # requred to convert text chunks -> embeddings
+pinecone-client # For Pinecone Vector DB
+langchain==0.0.255 # langchain
+flask # frontend
