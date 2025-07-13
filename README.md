@@ -1,4 +1,4 @@
-# likhithe2204-End-to-End-Medical-Chat-Bot-using-Llama-2
+# MedLlama - An SymptomSolver
 
 ## Steps to run the project 
 
